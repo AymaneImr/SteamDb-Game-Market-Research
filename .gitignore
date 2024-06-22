@@ -1,0 +1,9 @@
+scraping-data/test/__pycache__
+scraping-data/test/.pytest_cache
+scraping-data/test/downloaded_files
+scraping-data/test/myDB.db
+venv
+main.ipynb
+hello.py
+database
+
